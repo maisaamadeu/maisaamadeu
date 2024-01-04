@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou atualmente trabalhando em projetos voluntários<br>👯 Estou procurando colaborar em projetos <br>🤝 Estou procurando ajuda com gerenciamento de estado<br>🌱 Atualmente estou aprendendo sobre GetX<br>💬 Me pergunte sobre Flutter e eu lhe responderei um universo incrível <br>⚡ Se atualização fosse boa, meu projeto Flutter não quebrava toda vez que eu atualizo
+🔭 Estou atualmente trabalhando na Escribo como desenvolvedora Flutter<br>🌱 Atualmente estou aprendendo sobre Method Channel<br>💬 Me pergunte sobre Flutter e eu lhe responderei um universo incrível <br>⚡ Se atualização fosse boa, meu projeto Flutter não quebrava toda vez que eu atualizo
 
 
 ## 🌐 Redes Sociais:
